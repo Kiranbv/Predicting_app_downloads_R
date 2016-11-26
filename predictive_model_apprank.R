@@ -1,5 +1,4 @@
-# This code is to build the predictive model for the data science challenge for
-# Apptopia. 
+# This code is to build the model for predicting App downloads from 12 different countries
 
 # change working directory(change accordingly)
 getwd()
